@@ -27,8 +27,8 @@ A Command Line Interface (CLI) tool for managing events. This CLI allows users t
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/events-cli.git
-cd events-cli
+git clone https://github.com/TomNelsonTembo/Priofirst-CLI.git
+cd Priofirst-CLI
 
 go build -o Priofirst
 
